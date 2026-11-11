@@ -43,6 +43,8 @@ UTF-8 with a byte-order mark, comma separated, one header row.
 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Credit Nawafith and link to gov.nawafith.net.
 
-> Nawafith (2026). Syrian Official Gazette records: companies and decrees, December 2024 to October 2026. https://gov.nawafith.net/en/numbers
+> Nawafith (2026). Syrian Official Gazette records: companies and decrees, December 2024 to October 2026. Zenodo. https://doi.org/10.5281/zenodo.24122383
+
+The live counts and method are at https://gov.nawafith.net/en/numbers. Also on [Zenodo](https://doi.org/10.5281/zenodo.24122383), [GitHub](https://github.com/karam2022/nawafith-gazette-data), [Hugging Face](https://huggingface.co/datasets/Zendetta/nawafith-gazette-data) and [Kaggle](https://www.kaggle.com/datasets/karamalhamad/syria-official-gazette-companies-and-decrees).
 
 Corrections: see https://gov.nawafith.net/en/access
